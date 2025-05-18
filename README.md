@@ -18,7 +18,7 @@ This project leverages machine learning techniques to accurately predict the sel
 - **Data Visualization** (Matplotlib, Seaborn)  
 - **Model Serialization** (Pickle)  
 
-## **Installation & Usage**  
+
 
 
 
